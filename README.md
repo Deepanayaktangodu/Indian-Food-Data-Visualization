@@ -68,7 +68,7 @@ This project explores the diversity of Indian cuisine through a data visualizati
 **Deepa Nayak**  
 💼 Data Analytics Intern | CodeAlpha  
 🔗 [LinkedIn](https://www.linkedin.com/in/deepa-nayak-a825a7175)  
-📬 deepanayaktangodu@gmail.com  
+📬 deepanayak109@gmail.com  
 
 ---
 
